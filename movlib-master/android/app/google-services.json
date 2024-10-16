@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "759496519687",
+    "firebase_url": "https://movlib-ba64e.firebaseio.com",
+    "project_id": "movlib-ba64e",
+    "storage_bucket": "movlib-ba64e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759496519687:android:dc76461d6a94570e07faa2",
+        "android_client_info": {
+          "package_name": "com.bes.ps.movlib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759496519687-dqt4vhmgs6ha2mnj99i2p6fs2282q72j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bes.ps.movlib",
+            "certificate_hash": "e715b7c5ff0ebd293efc7fa6244c9624b94149b6"
+          }
+        },
+        {
+          "client_id": "759496519687-ueejap64gadf76gdqpb39b46jqlebj1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAMmey7R_ACaBW1_SH3EiDDm1JvN3e9bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759496519687-ueejap64gadf76gdqpb39b46jqlebj1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
